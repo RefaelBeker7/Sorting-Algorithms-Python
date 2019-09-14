@@ -7,12 +7,11 @@ While it's beneficial to understand these sorting algorithms, in most Python pro
 
 **Conclusion**
 - Sorting algorithms gives us many ways to order our data. We looked at 6 different algorithms:
-- [x] Bubble Sort.
+* [x] Bubble Sort.
 - [x] Selection Sort.
 - [x] Insertion Sort.
 - [x] Quick Sort.
 - [x] Merge Sort.
 - [x] Heap Sort. 
-and their implementations in Python.
 
 - The amount of comparison and swaps the algorithm performs along with the environment the code runs are key determinants of performance. In real Python applications, it's recommended we stick with the built in Python sort functions for their flexibility on the input and speed.
