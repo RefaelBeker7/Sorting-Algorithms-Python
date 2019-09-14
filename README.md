@@ -5,7 +5,7 @@
 
 While it's beneficial to understand these sorting algorithms, in most Python projects you would probably use the sort functions already provided in the language.
 
-**Conclusion**
+# Conclusion
 Sorting algorithms gives us many ways to order our data. We looked at 6 different algorithms:
 - [x] Bubble Sort.
 - [x] Selection Sort.
